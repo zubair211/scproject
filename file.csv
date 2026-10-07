@@ -1,0 +1,13 @@
+file type ,sorting type ,Time taken 
+Random,Wrong Selection Sort,2
+Random,Correct Selection Sort,1
+Random,Insertion Sort,0
+Random,Bubble Sort,0
+Ascending,Wrong Selection Sort,1
+Ascending,Correct Selection Sort,0
+Ascending,Insertion Sort,0
+Ascending,Bubble Sort,0
+Descending,Wrong Selection Sort,1
+Descending,Correct Selection Sort,1
+Descending,Insertion Sort,1
+Descending,Bubble Sort,0
